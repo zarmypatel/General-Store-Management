@@ -1,0 +1,12 @@
+C:\Users\Sani\source\repos\GeneralStoreManagementSystem\GeneralStoreManagementSystem\obj\Debug\GeneralStoreManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sani\source\repos\GeneralStoreManagementSystem\GeneralStoreManagementSystem\bin\Debug\P.dll.config
+C:\Users\Sani\source\repos\GeneralStoreManagementSystem\GeneralStoreManagementSystem\bin\Debug\P.dll
+C:\Users\Sani\source\repos\GeneralStoreManagementSystem\GeneralStoreManagementSystem\bin\Debug\P.pdb
+C:\Users\Sani\source\repos\GeneralStoreManagementSystem\GeneralStoreManagementSystem\obj\Debug\P.dll
+C:\Users\Sani\source\repos\GeneralStoreManagementSystem\GeneralStoreManagementSystem\obj\Debug\P.pdb
+C:\Users\Admin\Desktop\GeneralStoreManagementSystem\GeneralStoreManagementSystem\GeneralStoreManagementSystem\GeneralStoreManagementSystem\bin\Debug\P.dll.config
+C:\Users\Admin\Desktop\GeneralStoreManagementSystem\GeneralStoreManagementSystem\GeneralStoreManagementSystem\GeneralStoreManagementSystem\bin\Debug\P.dll
+C:\Users\Admin\Desktop\GeneralStoreManagementSystem\GeneralStoreManagementSystem\GeneralStoreManagementSystem\GeneralStoreManagementSystem\bin\Debug\P.pdb
+C:\Users\Admin\Desktop\GeneralStoreManagementSystem\GeneralStoreManagementSystem\GeneralStoreManagementSystem\GeneralStoreManagementSystem\obj\Debug\GeneralStoreManagementSystem.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\GeneralStoreManagementSystem\GeneralStoreManagementSystem\GeneralStoreManagementSystem\GeneralStoreManagementSystem\obj\Debug\P.dll
+C:\Users\Admin\Desktop\GeneralStoreManagementSystem\GeneralStoreManagementSystem\GeneralStoreManagementSystem\GeneralStoreManagementSystem\obj\Debug\P.pdb
